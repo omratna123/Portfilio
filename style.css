@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    min-width: 50%;
+    margin: auto;
+    color: darkslategrey;
+}
+
+
+.First{
+    display: flex;
+    align-items: center;
+}
+
+
+.photo{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 70px;
+    margin: 20px;
+}
+
+.Second{
+    flex: 1;
+
+}
+
+
+
+.Name{
+    color: rgb(24, 21, 58);
+}
+
+.coral{
+    color: darkred;
+}
+
+.qualification{
+    letter-spacing: 1px;
+}
+
+
+.line{
+    border: 2px solid coral;
+}
+
+.heading{
+    min-width: 300px;
+}
+
+.edu{
+    color: darkred;
+}
+
+.ok{
+    margin-top: 20px;
+}
